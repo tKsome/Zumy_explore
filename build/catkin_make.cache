@@ -1,0 +1,2 @@
+base_controller:odroid_machine:robot_model/robot_model:robot_model/urdf:robot_model/urdf_parser_plugin:ros_zumy:serial:teleop_twist_keyboard
+-DCATKIN_DEVEL_PREFIX=/home/odroid/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/odroid/catkin_ws/install -G Unix Makefiles

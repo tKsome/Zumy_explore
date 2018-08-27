@@ -1,0 +1,8 @@
+prefix=/home/odroid/catkin_ws/devel
+
+Name: odroid_machine
+Description: Description of odroid_machine
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/odroid/catkin_ws/devel/lib 
+Requires: 

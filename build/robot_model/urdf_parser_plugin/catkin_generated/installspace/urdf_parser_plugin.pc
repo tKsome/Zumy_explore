@@ -1,0 +1,8 @@
+prefix=/home/odroid/catkin_ws/install
+
+Name: urdf_parser_plugin
+Description: Description of urdf_parser_plugin
+Version: 1.12.11
+Cflags: -I/home/odroid/catkin_ws/install/include -I/usr/include
+Libs: -L/home/odroid/catkin_ws/install/lib 
+Requires: 
